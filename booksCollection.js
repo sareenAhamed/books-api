@@ -23,6 +23,7 @@ const books = [
         author: "Zasi",
         publishedYear: 2024
     }
+    
 ]
 
 export default books;
